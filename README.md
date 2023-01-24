@@ -6,3 +6,4 @@
 - `CG28` macro by [AndrewEllis93](https://ellis3dp.com/Print-Tuning-Guide/articles/useful_macros/conditional_homing.html)
 - `test_speed.cfg` by [AndrewEllis93](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/macros/TEST_SPEED.cfg)
 - base `PAUSE`/`RESUME` macros by [AndrewEllis93](https://ellis3dp.com/Print-Tuning-Guide/articles/useful_macros/pause_resume_filament.html#pause--resume)
+- base stealthburner "rainbow barf" macros/effects by [mental405 & hagbard & Urufu_Shinjiro](https://github.com/julianschill/klipper-led_effect/blob/master/examples/Voron_Stealthburner/stealthburner_led_effects_barf.cfg)
