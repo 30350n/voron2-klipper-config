@@ -1,4 +1,5 @@
 printer-[0-9]*_[0-9]*.cfg
 mooncord.json
-.moonraker.conf.bkp
+*.conf.*
+ 
 saved_variables.cfg
